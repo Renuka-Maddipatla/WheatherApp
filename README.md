@@ -1,0 +1,1 @@
+# WheatherApp it is a project i have used technologies like html,css,javascript.when you run the index.html file it will shows user input,when user enters a location its shows the temperature and humdity,when user enters invalid location its shows invalid location.
